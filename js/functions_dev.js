@@ -152,7 +152,7 @@ function timeElapse(date, mode) {
 	result += "<span class=\"digit\">" + minutes + "</span> 分钟 "
 	result += "<span class=\"digit\">" + seconds + "</span> 秒";
 
-	$("#elapseClock").html(result);
+	// $("#elapseClock").html(result);
 }
 
 function showMessages() {
